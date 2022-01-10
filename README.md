@@ -26,3 +26,5 @@ Technology RAID 0 was the best
 performing configuration across all
 metrics, with the exception of large file
 writes, where it was second best.
+
+Read the rest at https://mstpn.github.io/Win10RAID/RAID_Performance.pdf
